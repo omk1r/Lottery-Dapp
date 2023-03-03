@@ -19,7 +19,7 @@
  */
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "next stool giraffe sail border buyer token general proof lobster weather ugly";
+const mnemonic = "";
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
